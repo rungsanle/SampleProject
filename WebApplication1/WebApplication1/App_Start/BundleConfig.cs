@@ -24,6 +24,7 @@ namespace WebApplication1
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/facebook.css",
                       "~/Content/site.css"));
         }
     }
